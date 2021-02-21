@@ -366,7 +366,7 @@ Dialogue: 0,0:33:35.88,0:33:38.20,English,,0,0,0,,For unsigned it has to be a lo
 Dialogue: 0,0:33:38.74,0:33:43.50,English,,0,0,0,,Sign numbers the C standard says there's no fixed definition
 Dialogue: 0,0:33:43.74,0:33:48.56,English,,0,0,0,, The reality is on our machines most machines just about every machine out there
 Dialogue: 0,0:33:49.24,0:33:55.14,English,,0,0,0,,When it's a two's complement number when it's a negative where it's the signed number it's two's complement
-Dialogue: 0,0:33:55.40,0:33:58.12,English,,0,0,0,,And when you do a shift it will be an earth metic shift
+Dialogue: 0,0:33:55.40,0:33:58.12,English,,0,0,0,,And when you do a shift it will be an arithmetic shift
 Dialogue: 0,0:34:07.22,0:34:11.44,English,,0,0,0,,So getting back to them summarizing this integer arithmetic
 Dialogue: 0,0:34:11.90,0:34:15.79,English,,0,0,0,,You see that first of all whether it's signed your unsigned
 Dialogue: 0,0:34:16.22,0:34:21.64,English,,0,0,0,,The addition or multiplication operations are the same
